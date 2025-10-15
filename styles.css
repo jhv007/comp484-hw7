@@ -1,0 +1,63 @@
+/* Color Palette
+#f7f7f7 - color 1
+#eeeeee - color 2
+#393e46 - color 3
+#929aab - color 4
+*/
+
+/* Global styles */
+body {
+    background: #f7f7f7;
+    color: #393e46;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+/* Header & Footer */
+header {
+    background-color: #393e46;
+    color: #f7f7f7;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: #393e46;
+    color: #f7f7f7;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Work Experience */
+.work {
+    background-color: #eeeeee;
+    color: #393e46;
+    padding: 20px;
+}
+
+/* Education */
+.education {
+    background-color: #eeeeee;
+    color: #393e46;
+    padding: 20px;
+}
+
+/* Fonts */
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #929aab;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
+    font-weight: 600;
+}
